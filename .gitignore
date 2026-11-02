@@ -1,0 +1,27 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+# Python Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache Files
+__pycache__/
+*.py[cod]
+
+# VS Code Settings
+.vscode/
+
+# Temporary Files
+*.log
+.DS_Store
+Thumbs.db
